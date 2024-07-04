@@ -24,7 +24,7 @@ $ git push origin main
 
 $ git checkout -b development
 
-7. Write your code, repeat add it to stage, commit and push it to guthub with command:
+7. Write your code, add it to stage, commit. Push it to github with command:
 
 $ git push origin development
 
